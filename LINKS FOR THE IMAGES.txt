@@ -1,0 +1,17 @@
+1. author-image1: https://static.wixstatic.com/media/6bf6eb_d7e22956c41f4f23b2c841ae608dd2c4~mv2.jpg
+2. author-image2: 
+3. author-image3: https://static.wixstatic.com/media/6bf6eb_5130946eea784bedae321a4448534947~mv2.jpg
+4. author-image4: https://static.wixstatic.com/media/6bf6eb_8973ecc412114861b3efb3328c549572~mv2.jpg
+5.
+6.
+7.
+8.
+9. tst-image2: https://static.wixstatic.com/media/6bf6eb_4aee6ba6089342bbb997133816c09224~mv2.jpg
+10. author-image1: 
+11. tst-image4: 
+12.
+13.
+14.
+15. ../images/slider-image3.jpg:https://static.wixstatic.com/media/6bf6eb_a5bb299856f241deafa960c9523dfac7~mv2.jpg
+16. ../images/slider-image2.jpg:https://static.wixstatic.com/media/6bf6eb_5b2cc5d96dde406cb0b31d9ec77545f8~mv2.jpg
+17.../images/slider-image1.jpg: https://static.wixstatic.com/media/6bf6eb_80be7462b8e149f2868a5b99e4abb2e7~mv2.jpg
